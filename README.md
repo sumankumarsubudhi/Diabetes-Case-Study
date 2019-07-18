@@ -6,10 +6,10 @@ In this case study, we looked at predicting diabetes for 768 patients. There was
 
 Three advanced modeling techniques were used to predict whether or not a patient has diabetes. The most successful of these techniques proved to be an AdaBoost Classification technique, which had the following metrics:
 
- - Accuracy score for adaboost : 0.7792207792207793
+ - Accuracy score for adaboost : 0.78
 
- - Precision score adaboost : 0.7560975609756098
+ - Precision score adaboost : 0.76
 
- - Recall score adaboost : 0.5636363636363636
+ - Recall score adaboost : 0.56
 
- - F1 score adaboost : 0.6458333333333333
+ - F1 score adaboost : 0.66
